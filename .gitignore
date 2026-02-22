@@ -1,0 +1,29 @@
+# v0 runtime files
+__v0_runtime_loader.js
+__v0_devtools.tsx
+__v0_jsx-dev-runtime.ts
+
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Netlify local state/cache (safe to ignore)
+.netlify/
+
+# Environment files
+.env
+.env.*
+!.env.example
+!.env*.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Misc system files
+.DS_Store
