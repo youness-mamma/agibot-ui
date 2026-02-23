@@ -1,8 +1,7 @@
-# AgriBot UI
+# <img src="./public/favicon-32x32.png" alt="AgriBot favicon" width="32" /> AgriBot UI
 
 Modern marketing and product landing UI for **AgriBot**, a voice-first agricultural assistant designed for Moroccan smallholder farmers.
 
-<img src="./public/favicon-32x32.png" alt="AgriBot favicon" width="32" />
 
 ![AgriBot UI Preview](./public/ui_image.png)
 
