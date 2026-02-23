@@ -19,6 +19,15 @@ export const metadata: Metadata = {
   title: 'AgriBot — Your farm, your voice, your data.',
   description:
     'WhatsApp-based agricultural assistant for Moroccan smallholder farmers. Voice input, AI-powered guidance, in Darija and Arabic.',
+  icons: {
+    icon: [
+      { url: '/favicon-16x16.png', sizes: '16x16', type: 'image/png' },
+      { url: '/favicon-32x32.png', sizes: '32x32', type: 'image/png' },
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+    ],
+    shortcut: '/favicon-32x32.png',
+    apple: '/favicon-32x32.png',
+  },
   openGraph: {
     title: 'AgriBot — Agricultural guidance on WhatsApp',
     description:
