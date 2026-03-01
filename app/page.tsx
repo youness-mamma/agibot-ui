@@ -2,6 +2,7 @@ import { Navbar } from "@/components/navbar"
 import { HeroSection } from "@/components/hero-section"
 import { ProblemStats } from "@/components/problem-stats"
 import { AnimatedDemo } from "@/components/animated-demo"
+import { AIIntelligenceSection } from "@/components/ai-intelligence-section"
 import { FeaturesSection } from "@/components/features-section"
 import { BookingWidget } from "@/components/booking-widget"
 import { WhoItsFor } from "@/components/who-its-for"
@@ -20,6 +21,7 @@ export default function Page() {
         <HeroSection />
         <ProblemStats />
         <AnimatedDemo />
+        <AIIntelligenceSection />
         <FeaturesSection />
         <BookingWidget />
         <WhoItsFor />
